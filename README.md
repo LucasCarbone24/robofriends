@@ -1,1 +1,1 @@
-Test React and Deploying 
+Practice of a React app and Deploying 
